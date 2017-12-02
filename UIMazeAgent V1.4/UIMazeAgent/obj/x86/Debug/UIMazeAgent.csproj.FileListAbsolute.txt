@@ -1,0 +1,55 @@
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Form1.resources
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Properties.Resources.resources
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\bin\Debug\UIMazeAgent.exe
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\bin\Debug\UIMazeAgent.pdb
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\Project temp of C#\UIMazeAgent\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\bin\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\bin\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Form1.resources
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Properties.Resources.resources
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project Temp of C#\UIMazeAgent V1.1\UIMazeAgent\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\bin\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\bin\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Form1.resources
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Properties.Resources.resources
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project Temp of C#\UIMazeAgent V1.2\UIMazeAgent\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\bin\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\bin\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Form1.resources
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Properties.Resources.resources
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project Temp of C#\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\kuliah\artificial intelligent\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\kuliah\artificial intelligent\UIMazeAgent V1.3\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\bin\Debug\UIMazeAgent.exe
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\bin\Debug\UIMazeAgent.pdb
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Form1.resources
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Properties.Resources.resources
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project Temp of C#\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\kuliah\artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.exe
+D:\kuliah\artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.pdb
+D:\kuliah\Artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\bin\Debug\UIMazeAgent.exe
+D:\kuliah\Artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\bin\Debug\UIMazeAgent.pdb
+D:\kuliah\Artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.csprojResolveAssemblyReference.cache
+D:\kuliah\Artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Form1.resources
+D:\kuliah\Artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.Properties.Resources.resources
+D:\kuliah\Artificial intelligent\UIMazeAgent V1.4\UIMazeAgent\obj\x86\Debug\UIMazeAgent.csproj.GenerateResource.Cache

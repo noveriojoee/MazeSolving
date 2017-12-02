@@ -1,0 +1,6 @@
+formulasi permasalahan Maze
+
+States 		: Posisi Agent ada di posisi kotak[1,1]
+Keadaan Awal 	: Ada N Kotak yang Di bernilai false untuk di tempati
+Suksesor 	: Simpan semua kotak yang berhubungan dengan agent dan check apakah kotak2 yang terhubung itu merupakan kotak Goal? jika tidak masukan SetKotaks ke dalam list lalu tempatkan agen di kotak2 yang ada di dalam list untuk melakukan hal yang sama.
+Test Tujuan 	: Apakah kotak yang teruhubung merupakan kotak goal atau bukan?

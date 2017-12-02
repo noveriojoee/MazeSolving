@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{99780A16-7D17-4B69-8762-5A68F0B11D9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UIMazeAgent/myQueue.cs">
+    <Files>
+      <File FileName="UIMazeAgent/Agent.cs" Line="327" Column="59" />
+      <File FileName="UIMazeAgent/Form1.cs" Line="134" Column="13" />
+      <File FileName="UIMazeAgent/myQueue.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UIMazeAgent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
